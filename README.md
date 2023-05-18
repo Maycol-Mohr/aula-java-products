@@ -8,6 +8,6 @@ Criação de uma API Rest com a disponibilização de um endpoint "/products", q
 - Spring Boot
 - Maven
 - Postman
-
+- Composição de objetos
 
 
